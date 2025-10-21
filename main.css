@@ -1,0 +1,59 @@
+.logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(61, 61, 63);
+    margin:auto 0;
+    padding: 5px 20px;
+}
+
+.home {
+    text-align: center;
+    background-color: aqua;
+    margin:auto 0;
+    padding: 20px;
+}
+
+.barr1{
+    text-align: center;
+    color: aliceblue;
+}
+
+.barr2{
+    text-align: center;
+    color: aliceblue;
+}
+
+.barr3{
+    text-align: center;
+    color: aliceblue;
+}
+
+.barr4{
+    text-align: center;
+    color: aliceblue;
+}
+
+.mpt {
+    display: block;
+    margin-top: 60px; margin-left: 60px;
+    color: aliceblue;
+    
+    
+}
+body {
+    background-color: rgb(61, 61, 63);
+}
+
+.mainpg {
+    margin-top: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+
+}
+
+.login {
+    display: flex;
+    color:aliceblue
+}
