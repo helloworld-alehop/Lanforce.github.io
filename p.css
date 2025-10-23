@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+.cardP{
+    padding: 20px;
+    background-color: blue;
+    display: block;
+    align-items: center;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
+
+.img{
+    padding: 20px;
+    border-style: ;
+    border-width: ;
+    
+}
